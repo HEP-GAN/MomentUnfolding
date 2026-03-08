@@ -1,0 +1,36 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it using the metadata below."
+title: "MomentUnfolding"
+type: software
+authors:
+  - family-names: "Desai"
+    given-names: "Krish"
+repository-code: "https://github.com/HEP-GAN/MomentUnfolding"
+url: "https://github.com/HEP-GAN/MomentUnfolding"
+abstract: "Software for moment extraction using an unfolding protocol without binning."
+keywords:
+  - "high-energy physics"
+  - "unfolding"
+  - "moment extraction"
+  - "GAN"
+license: "MIT"
+version: "1.0.0"
+date-released: 2026-03-08
+
+preferred-citation:
+  type: article
+  authors:
+    - family-names: "Desai"
+      given-names: "Krish"
+    - family-names: "Nachman"
+      given-names: "Benjamin"
+    - family-names: "Thaler"
+      given-names: "Jesse"
+  title: "Moment Extraction Using an Unfolding Protocol Without Binning"
+  journal: "Physical Review D"
+  volume: 110
+  issue: 11
+  article-number: 116013
+  date-published: 2024-12-13
+  publisher: "American Physical Society"
+  doi: "10.1103/PhysRevD.110.116013"
